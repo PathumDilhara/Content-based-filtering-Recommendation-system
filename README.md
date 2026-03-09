@@ -22,5 +22,5 @@ This project implements a **content-based recommendation system** to suggest ite
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PathumDilhara/Content-based-filtering-Recommendation-system.git
 cd Content-based-filtering-Recommendation-system
